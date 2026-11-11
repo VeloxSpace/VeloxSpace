@@ -12,6 +12,6 @@
 
 💬 **Telegram** — [@Velox95](https://t.me/Velox95)
 
-![Velox's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwenxiang51-wq&show_icons=true)
+![Velox's GitHub stats](https://github-stats-extended.vercel.app/api?username=pwenxiang51-wq&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pwenxiang51-wq&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=pwenxiang51-wq&layout=compact)
