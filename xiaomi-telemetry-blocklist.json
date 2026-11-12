@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "miui.com",
+        "xiaomi.com",
+        "wo.com.cn",
+        "map.baidu.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "stun",
+        "turn",
+        "rtc"
+      ]
+    },
+    {
+      "network": "udp",
+      "port": 443
+    }
+  ]
+}
